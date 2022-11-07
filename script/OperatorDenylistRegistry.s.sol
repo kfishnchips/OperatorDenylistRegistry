@@ -2,11 +2,11 @@
 pragma solidity 0.8.17;
 
 import "forge-std/Script.sol";
+import {OperatorDenylistRegistry} from "../src/OperatorDenylistRegistry.sol";
 
-contract OperatorDenylistRegistryScript is Script {
-    function setUp() public {}
-
+contract Deploy is Script {
     function run() public {
         vm.broadcast();
+        new OperatorDenylistRegistry();
     }
 }

@@ -4,7 +4,7 @@ This denylist registry can be used by anyone and is ownerless.
 
 # Registry address
 
-[https://etherscan.io/address/0xbD5Bf39ac08B9a16C3DE2Ad093706E70082eff8E](https://etherscan.io/address/0xbD5Bf39ac08B9a16C3DE2Ad093706E70082eff8E)
+[https://etherscan.io/address/0x975f1ace337025b69504b9bfcb4e856640d442ad](https://etherscan.io/address/0x975f1ace337025b69504b9bfcb4e856640d442ad)
 
 # Common addresses
 

@@ -2,6 +2,14 @@
 
 This denylist registry can be used by anyone and is ownerless.
 
+# Registry address
+
+[https://etherscan.io/address/0xbD5Bf39ac08B9a16C3DE2Ad093706E70082eff8E](https://etherscan.io/address/0xbD5Bf39ac08B9a16C3DE2Ad093706E70082eff8E)
+
+# Common addresses
+
+* X2Y2: 0xF849de01B080aDC3A814FaBE1E2087475cF2E354
+* BLUR: 0x000000000000Ad05Ccc4F10045630fb830B95127
 
 ## Usage
 It is required that your contract follows either EIP173 (Ownable) or AccessControl.
